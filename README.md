@@ -1,7 +1,10 @@
-# Portifólio
-Prazer, eu sou o Maycon! Esse é meu portifólio
+# Portfolio 📑
+Welcome to my portfolio!
 
-### Links Úteis 
-[LinkedIn](https://www.linkedin.com/in/maycon-cesar-de-paula-silva-858a7a19b/) 📑
+### Useful links:
+[LinkedIn](https://www.linkedin.com/in/maycon-cesar-de-paula-silva-858a7a19b/) 📘
 
-[DIO](https://web.dio.me/users/maycclic?tab=achievements)
+[DIO](https://web.dio.me/users/maycclic?tab=achievements) 👨‍🎓
+
+[Instagram](instagram.com/_cesary) 
+
