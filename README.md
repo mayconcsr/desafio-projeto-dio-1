@@ -1,6 +1,7 @@
-# Desafio de Projeto - DIO
-Repositório criado para o desafio de Projeto sobre Git/GitHub
+# Portifólio
+Prazer, eu sou o Maycon! Esse é meu portifólio
 
 ### Links Úteis 
-[DIO](https://web.dio.me/users/maycclic?tab=achievements) 👨‍🎓 and 
 [LinkedIn](https://www.linkedin.com/in/maycon-cesar-de-paula-silva-858a7a19b/) 📑
+
+[DIO](https://web.dio.me/users/maycclic?tab=achievements)
