@@ -1,5 +1,5 @@
-# Portfolio 📑
-Welcome to my portfolio!
+# Maycon Portfolio 📑
+Welcome to my portfolio
 
 ### Useful links:
 [LinkedIn](https://www.linkedin.com/in/maycon-cesar-de-paula-silva-858a7a19b/) 📘
